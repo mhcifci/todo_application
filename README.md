@@ -1,3 +1,3 @@
-# todo_application
+# Flutter To-Do uygulaması
 
-A new Flutter project.
+[Ekran görüntüsü.](https://raw.githubusercontent.com/mhcifci/todo_application/master/Screenshot1.png)
